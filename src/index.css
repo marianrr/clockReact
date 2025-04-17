@@ -43,6 +43,8 @@ body {
     font-size: 60px;
   }
 
-
+  body {
+    height: 100svh;
+}
 
 }
